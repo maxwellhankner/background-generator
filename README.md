@@ -1,2 +1,2 @@
 # background-generator
-backround stuff
+This is a practice example
